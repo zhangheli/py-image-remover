@@ -1,4 +1,5 @@
 ## Image Processor: A Tool for Removing Watermarks from Images
+[中文版](README-cn.md)
 
 This repository provides a simple yet effective tool for removing watermarks from images using PaddleOCR and OpenCV. It leverages the power of deep learning for text detection and inpainting techniques for seamless removal.
 
